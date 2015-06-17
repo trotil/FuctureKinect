@@ -1,0 +1,1 @@
+FuctureKinect is the small wrapper for Kinect v2 skeleton tracking in THREEJS. You get simple implementation of skeleton representation with some simple jitter filtering. This is not a stable release, so bugs can hunt you down, use this with caution. 
